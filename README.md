@@ -19,7 +19,7 @@ This project was taken from  [Udemy by Brad Traversy and Florin Pop](https://www
 
 ### Links
 
-- Live Site URL: [Form Wave](https://zoxabbasi.github.io/dad-jokes_brad-traversy/)
+- Live Site URL: [Dad Jokes](https://zoxabbasi.github.io/dad-jokes_brad-traversy/)
 
 ## My process
 
